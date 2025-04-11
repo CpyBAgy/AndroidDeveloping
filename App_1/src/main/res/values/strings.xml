@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab-1</string>
+
+    <string name="full_name">Ivan Bashkatov</string>
+    <string name="username">CpyBAgy</string>
+    <string name="additionalInfo">Личный блог айтишника</string>
+    <string name="postInfo">Описание поста, ну типа гуляем</string>
+
+    <string name="subscribe">Подписаться</string>
+    <string name="subscribed">Подписан</string>
+
+    <string name="message">Сообщение</string>
+    <string name="posts">Посты</string>
+    <string name="followers">Подписчики</string>
+    <string name="following">Подписки</string>
+
+    <string name="like">Нравится</string>
+    <string name="comment">Комментировать</string>
+</resources>
